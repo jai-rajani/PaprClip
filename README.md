@@ -1,16 +1,5 @@
-# paprclip
+# Paprclip
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-09-09 023448](https://user-images.githubusercontent.com/82721312/189225679-5131e6d7-6c7c-430f-a372-6cd1fcafb868.png)
+<br>
+![Screenshot 2022-09-09 023448](https://user-images.githubusercontent.com/82721312/189225797-93a95c2e-4787-46f3-8d20-a76d7f887fde.png)
