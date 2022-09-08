@@ -1,0 +1,27 @@
+Container(
+                width:200,
+                margin: EdgeInsets.fromLTRB(30, 10, 0, 0),
+                child: Wrap(
+                  children: [
+                  for ( var index=0;index<bank_data.length;index++)Text(bank_data[index]),
+                  ],
+                  ),
+                  ),
+
+
+Column(
+
+            children: <Widget>[
+              Container(
+                width:200,
+                margin: EdgeInsets.fromLTRB(30, 10, 0, 0),
+                child: Wrap(
+                  children: [
+                  for ( var index=0;index<bank_data.length;index++)Text(bank_data[index]),
+                  ],
+                  ),
+                  ),
+
+
+            ],
+        ),
